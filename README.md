@@ -1,6 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21710
 Fork on GitHub6905
 <h1 align="center">Hi 👋, I'm Karabo Seekoei.</h1>
 <h3 align="center">A passionate software engineer developer from South Africa.</h3>

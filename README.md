@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karabo Seekoei.</h1>
 <h3 align="center">A passionate software engineer developer from South Africa.</h3>
 
-- 🔭 I’m currently working on [Queuing Machine](https://github.com/KaraboSeekoei/queuing_machine.git)
+- 🔭 I’m currently working on [Queuing Machine](https://github.com/KaraboSeekoei/pine-city-zoo.git)
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on [affirmation generator](https://github.com/Karabosithole/affirmation_generator.git)
+- 🌱 I’m currently learning **NODEJS**
 
 - 💬 Ask me about **HTML/CSS,JavaScript, JAVA and Python**
 

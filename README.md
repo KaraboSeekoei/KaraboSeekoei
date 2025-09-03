@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [queuing_machine](https://github.com/KaraboSeekoei/queuing_machine.git)
 
-- 🌱 I’m currently learning **NODEJS**
+- 🌱 I’m currently learning **DART**
 
 - 💬 Ask me about **HTML/CSS,JavaScript, JAVA and Python**
 

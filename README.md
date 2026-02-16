@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Karabo Seekoei.</h1>
-<h3 align="left">A passionate software engineer developer from South Africa.</h3>
+<h3 align="left">A passionate software engineer from South Africa.</h3>
 
 - 🔭 I’m currently working on [BasicMath](https://github.com/KaraboSeekoei/basicmath.git, ) and [To-Do List](https://github.com/KaraboSeekoei/To-Do-List.git)
 

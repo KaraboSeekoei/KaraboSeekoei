@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karabo Seekoei.</h1>
 <h3 align="center">A passionate software engineer developer from South Africa.</h3>
 
-- 🔭 I’m currently working on [queuing_machine](https://github.com/KaraboSeekoei/queuing_machine.git)
+- 🔭 I’m currently working on [queuing_machine](https://github.com/KaraboSeekoei/basicmath.git)
 
-- 🌱 I’m currently learning **DART**
+- 🌱 I’m currently learning **FLASK**
 
 - 💬 Ask me about **HTML/CSS,JavaScript, JAVA and Python**
 

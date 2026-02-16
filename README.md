@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karabo Seekoei.</h1>
 <h3 align="center">A passionate software engineer developer from South Africa.</h3>
 
-- 🔭 I’m currently working on [queuing_machine](https://github.com/KaraboSeekoei/basicmath.git)
+- 🔭 I’m currently working on [BasicMath](https://github.com/KaraboSeekoei/basicmath.git, ) and [To-Do List]()
 
 - 🌱 I’m currently learning **FLASK**
 
